@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mb_corner_radius_2">2dp</dimen>
+</resources>
